@@ -7,7 +7,7 @@ def hello_t(arr)
       i += 1
     end
     arr
-  else 
+  else
     puts "Hey, No block was given!"
   end
 end
