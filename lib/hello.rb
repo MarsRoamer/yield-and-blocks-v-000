@@ -6,4 +6,3 @@ while i < arr.length
   i += 1
 end
 end
-
